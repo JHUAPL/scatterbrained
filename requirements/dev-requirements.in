@@ -1,0 +1,12 @@
+-c requirements.txt
+bandit
+black
+docshund
+flake8
+flake8-bugbear
+isort
+notebook
+pre-commit
+pytest
+pytest-asyncio
+safety

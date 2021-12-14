@@ -1,0 +1,5 @@
+loguru
+orjson
+pyzmq
+rx
+uvloop
